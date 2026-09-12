@@ -1,0 +1,12 @@
+{
+  "version": "dev-0.6.0",
+  "baseUrl": "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
+  "files": [
+    {
+      "path": "project_rp/client/version.txt",
+      "url": "project_rp/client/version.txt",
+      "size": 37,
+      "sha256": "f2a975eedf767c529a20c79de39e81908858f98b04a932ae72663529aff24527"
+    }
+  ]
+}
