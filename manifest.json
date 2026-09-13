@@ -1,5 +1,5 @@
 {
-    "version":  "dev-0.7.4",
+    "version":  "dev-0.7.5",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
                   {
@@ -13,12 +13,9 @@
                       "url":  "models/vehicles/test_car.dat",
                       "size":  28,
                       "sha256":  "007d22535d90f99c1b3045ea4e068ce27d639085b15531f3ae6a57f5ec14d3df"
-                  },
-                  {
-                      "path":  "map/los_santos/test_map.dat",
-                      "url":  "map/los_santos/test_map.dat",
-                      "size":  21,
-                      "sha256":  "3475fe4b9cbf2c0190cb5b33ad5de9a4f8889e4d3df2ce57792a2762049b12fe"
                   }
-              ]
+              ],
+    "delete":  [
+                   "map/los_santos/test_map.dat"
+               ]
 }
