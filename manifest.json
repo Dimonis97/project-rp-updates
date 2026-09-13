@@ -1,5 +1,5 @@
 {
-  "version": "dev-0.7.1",
+  "version": "dev-0.7.2",
   "baseUrl": "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
   "files": [
     {
@@ -11,8 +11,8 @@
     {
       "path": "models/vehicles/test_car.dat",
       "url": "models/vehicles/test_car.dat",
-      "size": 28,
-      "sha256": "007d22535d90f99c1b3045ea4e068ce27d639085b15531f3ae6a57f5ec14d3df"
+      "size": 27,
+      "sha256": "d0e7338a874902f12f0ef8948e69cf388d9c1f30df26f79acbc80f3b916d09df"
     }
   ]
 }
