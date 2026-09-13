@@ -1,18 +1,24 @@
 {
-  "version": "dev-0.7.2",
-  "baseUrl": "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
-  "files": [
-    {
-      "path": "project_rp/client/version.txt",
-      "url": "project_rp/client/version.txt",
-      "size": 37,
-      "sha256": "f2a975eedf767c529a20c79de39e81908858f98b04a932ae72663529aff24527"
-    },
-    {
-      "path": "models/vehicles/test_car.dat",
-      "url": "models/vehicles/test_car.dat",
-      "size": 27,
-      "sha256": "d0e7338a874902f12f0ef8948e69cf388d9c1f30df26f79acbc80f3b916d09df"
-    }
-  ]
+    "version":  "dev-0.7.4",
+    "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
+    "files":  [
+                  {
+                      "path":  "textures/world/test_world.dat",
+                      "url":  "textures/world/test_world.dat",
+                      "size":  25,
+                      "sha256":  "8e4b518e76a774f71ff2f7420512052fec93b1274fc70c9bcfd9bf4ea9bf2413"
+                  },
+                  {
+                      "path":  "models/vehicles/test_car.dat",
+                      "url":  "models/vehicles/test_car.dat",
+                      "size":  28,
+                      "sha256":  "007d22535d90f99c1b3045ea4e068ce27d639085b15531f3ae6a57f5ec14d3df"
+                  },
+                  {
+                      "path":  "map/los_santos/test_map.dat",
+                      "url":  "map/los_santos/test_map.dat",
+                      "size":  21,
+                      "sha256":  "3475fe4b9cbf2c0190cb5b33ad5de9a4f8889e4d3df2ce57792a2762049b12fe"
+                  }
+              ]
 }
