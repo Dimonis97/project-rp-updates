@@ -1,0 +1,15 @@
+{
+  "version": "config-0.9.1",
+  "server": {
+    "name": "ЛОКАЛЬНЫЙ",
+    "host": "127.0.0.1",
+    "port": 7777
+  },
+  "links": {
+    "website": "",
+    "forum": "",
+    "support": "",
+    "donate": ""
+  },
+  "openMpCompatibilityArgs": []
+}
