@@ -1,60 +1,22 @@
 {
-    "version":  "dev-0.8.2",
+    "version":  "dev-0.8.3",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
-
+                  {
+                      "path":  "textures/world/test_world.dat",
+                      "url":  "textures/world/test_world.dat",
+                      "size":  25,
+                      "sha256":  "8e4b518e76a774f71ff2f7420512052fec93b1274fc70c9bcfd9bf4ea9bf2413"
+                  },
+                  {
+                      "path":  "models/vehicles/test_car.dat",
+                      "url":  "models/vehicles/test_car.dat",
+                      "size":  28,
+                      "sha256":  "2e911c2c915ff85fdd5e32eb48030f2917df39ba3a4271ab3a74d9c1aba92e17"
+                  }
               ],
     "packages":  [
-                     {
-                         "path":  "textures/world/test_world.dat",
-                         "size":  25,
-                         "sha256":  "8e4b518e76a774f71ff2f7420512052fec93b1274fc70c9bcfd9bf4ea9bf2413",
-                         "chunks":  [
-                                        {
-                                            "index":  0,
-                                            "size":  10,
-                                            "sha256":  "991f7f327ee0b9588c339c4fcf751ceb251d85fdf8e2e7b7810d6f7f2e85c041",
-                                            "url":  "chunks/8e4b518e76a774f71ff2f7420512052fec93b1274fc70c9bcfd9bf4ea9bf2413/00000.part"
-                                        },
-                                        {
-                                            "index":  1,
-                                            "size":  10,
-                                            "sha256":  "042b2957b50c55cc5f7803318e454c96f2baafb1e67acf47be1bcfab989fc6e4",
-                                            "url":  "chunks/8e4b518e76a774f71ff2f7420512052fec93b1274fc70c9bcfd9bf4ea9bf2413/00001.part"
-                                        },
-                                        {
-                                            "index":  2,
-                                            "size":  5,
-                                            "sha256":  "0f6d5ce3f8d84bb925064b5753ce1fa5e5759d7eebc6ec781ffd6131a9cfd757",
-                                            "url":  "chunks/8e4b518e76a774f71ff2f7420512052fec93b1274fc70c9bcfd9bf4ea9bf2413/00002.part"
-                                        }
-                                    ]
-                     },
-                     {
-                         "path":  "models/vehicles/test_car.dat",
-                         "size":  28,
-                         "sha256":  "2e911c2c915ff85fdd5e32eb48030f2917df39ba3a4271ab3a74d9c1aba92e17",
-                         "chunks":  [
-                                        {
-                                            "index":  0,
-                                            "size":  10,
-                                            "sha256":  "991f7f327ee0b9588c339c4fcf751ceb251d85fdf8e2e7b7810d6f7f2e85c041",
-                                            "url":  "chunks/2e911c2c915ff85fdd5e32eb48030f2917df39ba3a4271ab3a74d9c1aba92e17/00000.part"
-                                        },
-                                        {
-                                            "index":  1,
-                                            "size":  10,
-                                            "sha256":  "6989e94cf0eae114c24fd7e498c80b50cfc91094b338f144bbfb2a0ee36cbed0",
-                                            "url":  "chunks/2e911c2c915ff85fdd5e32eb48030f2917df39ba3a4271ab3a74d9c1aba92e17/00001.part"
-                                        },
-                                        {
-                                            "index":  2,
-                                            "size":  8,
-                                            "sha256":  "88fd1835153fcf654a645239e4c2fbfc9688052d5fa39e34a12d7651c6bf9001",
-                                            "url":  "chunks/2e911c2c915ff85fdd5e32eb48030f2917df39ba3a4271ab3a74d9c1aba92e17/00002.part"
-                                        }
-                                    ]
-                     }
+
                  ],
     "delete":  [
                    "map/los_santos/test_map.dat"
