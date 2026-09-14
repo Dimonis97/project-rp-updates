@@ -1,11 +1,65 @@
 {
-    "version":  "dev-0.8.4",
+    "version":  "dev-0.8.5",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
 
               ],
     "packages":  [
-
+                     {
+                         "path":  "data/resume_test.bin",
+                         "size":  83886080,
+                         "sha256":  "33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df",
+                         "chunks":  [
+                                        {
+                                            "index":  0,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00000.part"
+                                        },
+                                        {
+                                            "index":  1,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00001.part"
+                                        },
+                                        {
+                                            "index":  2,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00002.part"
+                                        },
+                                        {
+                                            "index":  3,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00003.part"
+                                        },
+                                        {
+                                            "index":  4,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00004.part"
+                                        },
+                                        {
+                                            "index":  5,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00005.part"
+                                        },
+                                        {
+                                            "index":  6,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00006.part"
+                                        },
+                                        {
+                                            "index":  7,
+                                            "size":  10485760,
+                                            "sha256":  "e5b844cc57f57094ea4585e235f36c78c1cd222262bb89d53c94dcb4d6b3e55d",
+                                            "url":  "chunks/33a3a11d54de8ede604c243cedfde1ef4b534d5ea3279c9dd57df314045c23df/00007.part"
+                                        }
+                                    ]
+                     }
                  ],
     "delete":  [
                    "map/los_santos/test_map.dat",
