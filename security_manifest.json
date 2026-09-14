@@ -1,0 +1,11 @@
+{
+    "version":  "security-0.9.0",
+    "minLauncherVersion":  "0.9.0",
+    "files":  [
+                  {
+                      "path":  "config/security_marker.dat",
+                      "size":  32,
+                      "sha256":  "9a3799fff67a52bb9965bd8705a42d3b7f79403f1a91e89cf426ddff138f22b7"
+                  }
+              ]
+}
