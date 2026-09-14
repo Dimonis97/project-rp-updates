@@ -1,5 +1,5 @@
 {
-    "version":  "0.8.3",
+    "version":  "0.8.4",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/launcher_files/",
     "files":  [
                   {
@@ -42,7 +42,7 @@
                       "path":  "data/app.so",
                       "url":  "data/app.so",
                       "size":  5653384,
-                      "sha256":  "b6032bdcd979b07825463d109421df29c98565a35d5b1b643f62f9e1f1a9b502"
+                      "sha256":  "2529c1c2f675d29897dfd2f9b07dececdc4b58cf29c29cead5aa5517fbf466f9"
                   },
                   {
                       "path":  "rp_launcher.exe",
