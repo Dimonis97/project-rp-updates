@@ -1,9 +1,14 @@
 {
-  "version": "config-0.9.1",
+  "version": "config-0.9.2",
   "server": {
     "name": "ЛОКАЛЬНЫЙ",
     "host": "127.0.0.1",
     "port": 7777
+  },
+  "endpoints": {
+    "contentManifest": "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/manifest.json",
+    "launcherManifest": "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/launcher_manifest.json",
+    "securityManifest": "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/security_manifest.json"
   },
   "links": {
     "website": "",
