@@ -1,9 +1,15 @@
 {
-  "version": "config-0.9.3",
+  "version": "config-1.0.0",
   "server": {
-    "name": "ЛОКАЛЬНЫЙ",
+    "name": "PROJECT RP",
     "host": "127.0.0.1",
-    "port": 7777
+    "port": 7777,
+    "online": true,
+    "playersOnline": 0,
+    "maxPlayers": 1000,
+    "mode": "open.mp",
+    "map": "Los Santos",
+    "uptime": "локальная разработка"
   },
   "endpoints": {
     "contentManifest": "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/manifest.json",
