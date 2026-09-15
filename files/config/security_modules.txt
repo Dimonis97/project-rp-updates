@@ -1,0 +1,10 @@
+# PROJECT RP C++ Guard allowlist
+# module_name|sha256
+# * = allowed name without pinned hash yet
+gta_sa.exe|*
+samp.dll|*
+vorbis.dll|*
+vorbisfile.dll|*
+ogg.dll|*
+eax.dll|*
+d3d9.dll|*
