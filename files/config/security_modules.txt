@@ -1,4 +1,4 @@
-# PROJECT RP C++ Guard allowlist
+﻿# PROJECT RP C++ Guard allowlist
 # module_name|sha256
 # * = allowed name without pinned hash yet
 gta_sa.exe|*
@@ -10,3 +10,4 @@ eax.dll|*
 d3d9.dll|*
 bass.dll|3f04620d6627abe5c3b4747faf26603ab7a006c81b2021ab4689bdd7033bb4cd
 project_rp_loading.asi|2b285b2699de8b170ba0ff9acb42ac0f4e5b974c71695c53946abb1bd1076b52
+winmm.dll|c79ac9445b514ada6245ce12051f4aa57b421d221b91973058ee2abdc259059d
