@@ -1,12 +1,12 @@
 {
-    "version":  "dev-0.9.6",
+    "version":  "dev-0.9.7",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
                   {
                       "path":  "config/security_modules.txt",
                       "url":  "config/security_modules.txt",
-                      "size":  435,
-                      "sha256":  "d88bfbe52ae3eac81a8e1ad9afe3189bcb2d8c2d8c6d5c0e3290595ffe531e59"
+                      "size":  423,
+                      "sha256":  "9ec78623c2253419e81101e49e5b4b700ee0c94fdbc168663f4697c33e3100ee"
                   },
                   {
                       "path":  "config/security_marker.dat",
