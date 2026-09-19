@@ -1,11 +1,11 @@
 {
-    "version":  "security-0.9.5",
+    "version":  "security-0.9.7",
     "minLauncherVersion":  "1.0.8",
     "files":  [
                   {
                       "path":  "config/security_modules.txt",
-                      "size":  356,
-                      "sha256":  "e89d1bb3826f0c8e068dfe91ad15937bd15a4fceb5172363bfb0a9433bd2f26b"
+                      "size":  423,
+                      "sha256":  "9ec78623c2253419e81101e49e5b4b700ee0c94fdbc168663f4697c33e3100ee"
                   },
                   {
                       "path":  "project_rp_guard.exe",
