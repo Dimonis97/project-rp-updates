@@ -1,5 +1,5 @@
 {
-    "version":  "dev-0.9.8",
+    "version":  "dev-0.9.9",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
                   {
@@ -12,13 +12,13 @@
                       "path":  "config/security_modules.txt",
                       "url":  "config/security_modules.txt",
                       "size":  435,
-                      "sha256":  "35ef5f9199d787d2eeb746516ce34355dd083289b875cc26e0e0cdd8d9fb8311"
+                      "sha256":  "233b29d75729d79fb5e1cbe12652ff86b1909dfb2179cf672bfccd080eb1d4d2"
                   },
                   {
                       "path":  "project_rp_loading.png",
                       "url":  "project_rp_loading.png",
-                      "size":  3550849,
-                      "sha256":  "67c7b72a455989f8c5ff1d87a939372a97ffc05a6c7b29b427a72fa69941010f"
+                      "size":  3453537,
+                      "sha256":  "a11fc6e7b164efdbe9afd83b2370657fb803477b61b4332ec10874bd8bbc6bba"
                   },
                   {
                       "path":  "project_rp_guard.exe",
@@ -29,8 +29,8 @@
                   {
                       "path":  "project_rp_loading.asi",
                       "url":  "project_rp_loading.asi",
-                      "size":  354816,
-                      "sha256":  "3f6f471a4dbee4afc41da35832732b43e58e1fd5420aaf502bda283e3aa85169"
+                      "size":  352256,
+                      "sha256":  "c84dc2f45138085ab15e23e676dcabf061fedbb95a71517c05ed3d4d049bb69b"
                   }
               ],
     "packages":  [
