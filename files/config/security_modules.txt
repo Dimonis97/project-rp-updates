@@ -9,5 +9,5 @@ ogg.dll|*
 eax.dll|*
 d3d9.dll|*
 bass.dll|3f04620d6627abe5c3b4747faf26603ab7a006c81b2021ab4689bdd7033bb4cd
-project_rp_loading.asi|c84dc2f45138085ab15e23e676dcabf061fedbb95a71517c05ed3d4d049bb69b
+project_rp_loading.asi|651b89f9751098d112ccc48d8a4328607de735f94ebcf7f751bf90ef55f5e88a
 winmm.dll|c79ac9445b514ada6245ce12051f4aa57b421d221b91973058ee2abdc259059d
