@@ -1,16 +1,16 @@
 {
-    "version":  "security-0.9.14",
+    "version":  "security-0.9.15",
     "minLauncherVersion":  "0.9.0",
     "files":  [
                   {
                       "path":  "config/security_modules.txt",
                       "size":  431,
-                      "sha256":  "12d885c6aa5f12d8a97e103e02dec1b78137dcf457f75df0d3de1b432ed12d0e"
+                      "sha256":  "2ef1a94b60ab58182b95cd44955b2f107d2a7dad2890154cf3994e5012630b06"
                   },
                   {
                       "path":  "project_rp_loading.asi",
-                      "size":  360448,
-                      "sha256":  "9adedf62f6fb624da40371a2a001807d68e453b7b2cfa67be00100910efc19aa"
+                      "size":  378368,
+                      "sha256":  "ded31d01e8c994313e8d568e0aab47e11c254b36136475d26fdd97643c43b24c"
                   },
                   {
                       "path":  "config/security_marker.dat",
