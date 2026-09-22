@@ -1,5 +1,5 @@
 {
-    "version":  "security-0.9.11",
+    "version":  "security-0.9.12",
     "minLauncherVersion":  "0.9.0",
     "files":  [
                   {
@@ -8,7 +8,7 @@
                       "sha256":  "d960afcbaa0c665152f231894336e1571b6e06337e457b462e0d58e9ad7f5329"
                   },
                   {
-                      "path":  "Game/project_rp_loading.asi",
+                      "path":  "project_rp_loading.asi",
                       "size":  351232,
                       "sha256":  "4e8d4c9dea036f220d82dd0551f450b46af1198e1ae1c58106d8cfaeddfbaa2d"
                   },
