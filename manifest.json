@@ -1,7 +1,13 @@
 {
-    "version":  "dev-0.9.11",
+    "version":  "dev-0.9.12",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
+                  {
+                      "path":  "project_rp_loading_backup.png",
+                      "url":  "project_rp_loading_backup.png",
+                      "size":  3453537,
+                      "sha256":  "a11fc6e7b164efdbe9afd83b2370657fb803477b61b4332ec10874bd8bbc6bba"
+                  },
                   {
                       "path":  "config/security_marker.dat",
                       "url":  "config/security_marker.dat",
@@ -13,18 +19,6 @@
                       "url":  "config/security_modules.txt",
                       "size":  431,
                       "sha256":  "d960afcbaa0c665152f231894336e1571b6e06337e457b462e0d58e9ad7f5329"
-                  },
-                  {
-                      "path":  "config/security_modules.txt.before_new_background",
-                      "url":  "config/security_modules.txt.before_new_background",
-                      "size":  435,
-                      "sha256":  "8a2f4370d9f482b1bb3db4203fe2f8e9f81c3495c60821db4e5864327e1046dd"
-                  },
-                  {
-                      "path":  "project_rp_loading_backup.png",
-                      "url":  "project_rp_loading_backup.png",
-                      "size":  3453537,
-                      "sha256":  "a11fc6e7b164efdbe9afd83b2370657fb803477b61b4332ec10874bd8bbc6bba"
                   },
                   {
                       "path":  "project_rp_guard.exe",
@@ -67,6 +61,7 @@
                      }
                  ],
     "delete":  [
+                   "config/security_modules.txt.before_new_background",
                    "map/los_santos/test_map.dat",
                    "models/vehicles/test_car.dat",
                    "textures/world/test_world.dat"
