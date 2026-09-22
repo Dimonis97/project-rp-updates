@@ -1,13 +1,7 @@
 {
-    "version":  "dev-0.9.10",
+    "version":  "dev-0.9.11",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
-                  {
-                      "path":  "project_rp_loading_backup.png",
-                      "url":  "project_rp_loading_backup.png",
-                      "size":  3453537,
-                      "sha256":  "a11fc6e7b164efdbe9afd83b2370657fb803477b61b4332ec10874bd8bbc6bba"
-                  },
                   {
                       "path":  "config/security_marker.dat",
                       "url":  "config/security_marker.dat",
@@ -17,8 +11,20 @@
                   {
                       "path":  "config/security_modules.txt",
                       "url":  "config/security_modules.txt",
+                      "size":  431,
+                      "sha256":  "d960afcbaa0c665152f231894336e1571b6e06337e457b462e0d58e9ad7f5329"
+                  },
+                  {
+                      "path":  "config/security_modules.txt.before_new_background",
+                      "url":  "config/security_modules.txt.before_new_background",
                       "size":  435,
                       "sha256":  "8a2f4370d9f482b1bb3db4203fe2f8e9f81c3495c60821db4e5864327e1046dd"
+                  },
+                  {
+                      "path":  "project_rp_loading_backup.png",
+                      "url":  "project_rp_loading_backup.png",
+                      "size":  3453537,
+                      "sha256":  "a11fc6e7b164efdbe9afd83b2370657fb803477b61b4332ec10874bd8bbc6bba"
                   },
                   {
                       "path":  "project_rp_guard.exe",
@@ -29,14 +35,14 @@
                   {
                       "path":  "project_rp_loading.asi",
                       "url":  "project_rp_loading.asi",
-                      "size":  352256,
-                      "sha256":  "651b89f9751098d112ccc48d8a4328607de735f94ebcf7f751bf90ef55f5e88a"
+                      "size":  351232,
+                      "sha256":  "4e8d4c9dea036f220d82dd0551f450b46af1198e1ae1c58106d8cfaeddfbaa2d"
                   },
                   {
                       "path":  "project_rp_loading.png",
                       "url":  "project_rp_loading.png",
-                      "size":  2295676,
-                      "sha256":  "37a3863f8d8d8fe0b513f883ab21beb89a9af757a3db8bbb6c2978b38708665e"
+                      "size":  2943244,
+                      "sha256":  "8a252a419671531db6292a9ec378304014face01dfc8db81119d44c437087ced"
                   }
               ],
     "packages":  [
