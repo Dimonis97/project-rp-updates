@@ -1,21 +1,26 @@
 {
-    "version":  "security-0.9.10",
-    "minLauncherVersion":  "1.0.8",
+    "version":  "security-0.9.11",
+    "minLauncherVersion":  "0.9.0",
     "files":  [
                   {
                       "path":  "config/security_modules.txt",
-                      "size":  435,
-                      "sha256":  "8a2f4370d9f482b1bb3db4203fe2f8e9f81c3495c60821db4e5864327e1046dd"
+                      "size":  431,
+                      "sha256":  "d960afcbaa0c665152f231894336e1571b6e06337e457b462e0d58e9ad7f5329"
                   },
                   {
-                      "path":  "project_rp_guard.exe",
-                      "size":  355840,
-                      "sha256":  "44e96d53ea660505150b81435270978624a0c2e8b6d53315ada92635aa71b99d"
+                      "path":  "Game/project_rp_loading.asi",
+                      "size":  351232,
+                      "sha256":  "4e8d4c9dea036f220d82dd0551f450b46af1198e1ae1c58106d8cfaeddfbaa2d"
                   },
                   {
                       "path":  "config/security_marker.dat",
                       "size":  32,
                       "sha256":  "9a3799fff67a52bb9965bd8705a42d3b7f79403f1a91e89cf426ddff138f22b7"
+                  },
+                  {
+                      "path":  "project_rp_guard.exe",
+                      "size":  355840,
+                      "sha256":  "44e96d53ea660505150b81435270978624a0c2e8b6d53315ada92635aa71b99d"
                   }
               ]
 }
