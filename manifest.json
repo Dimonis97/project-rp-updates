@@ -1,5 +1,5 @@
 {
-    "version":  "dev-0.9.13",
+    "version":  "dev-0.9.14",
     "baseUrl":  "https://raw.githubusercontent.com/Dimonis97/project-rp-updates/main/files/",
     "files":  [
                   {
@@ -35,8 +35,8 @@
                   {
                       "path":  "project_rp_loading.png",
                       "url":  "project_rp_loading.png",
-                      "size":  2943244,
-                      "sha256":  "8a252a419671531db6292a9ec378304014face01dfc8db81119d44c437087ced"
+                      "size":  3090631,
+                      "sha256":  "516bf7e757c0186babd04dd6ed053b91898cb1d505391e02e5844d59a71f046f"
                   }
               ],
     "packages":  [
